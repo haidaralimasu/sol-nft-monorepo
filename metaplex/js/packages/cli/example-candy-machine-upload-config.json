@@ -1,0 +1,31 @@
+{
+  "price": 0.01,
+  "number": 100,
+  "gatekeeper": {
+    "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+    "expireOnUse": true
+  },
+  "solTreasuryAccount": "TMUaJoFrDMbQM7NirWCSXVuDCrfgEg3w9ETMrhog7J6",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "25 JUN 2022 8:30:00 IST",
+  "endSettings": null,
+  "whitelistMintSettings": {
+    "mode": { "burnEveryTime": true },
+    "mint": "To6HNVJBccVyxGcmZPEPvGSPyNH2CrJeGxrToW1bwt6",
+    "presale": true,
+    "discountPrice": null
+  },
+  "hiddenSettings": {
+    "name": "My Hidden Collection ",
+    "uri": "https://gateway.pinata.cloud/ipfs/QmXERQj1W7xiXRGdPdZ2HDWTpi8tQK3Gafh72vij4keRsg/1.json",
+    "hash": "06f02498cef81e49a7381a4a0f12ec3832177174772127a9a5d3cb7e2b0fa64d"
+  },
+  "storage": "arweave-sol",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "awsS3Bucket": null,
+  "nftStorageKey": null,
+  "noRetainAuthority": false,
+  "noMutable": false
+}

@@ -1,0 +1,7 @@
+/target
+*.json
+/temp
+/binaries
+.test_files
+docs-src/book
+src/error_files
